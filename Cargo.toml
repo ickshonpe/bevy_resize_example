@@ -1,0 +1,7 @@
+[package]
+name = "definite_measure_func"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = { git = "https://github.com/ickshonpe/bevy.git", branch = "definite-measure-func" }
