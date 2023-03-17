@@ -267,7 +267,7 @@ checksum = "9e1b586273c5702936fe7b7d6896644d8be71e6314cfe09d3167c95f712589e8"
 [[package]]
 name = "bevy"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_internal",
 ]
@@ -275,7 +275,7 @@ dependencies = [
 [[package]]
 name = "bevy_a11y"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "accesskit",
  "bevy_app",
@@ -286,7 +286,7 @@ dependencies = [
 [[package]]
 name = "bevy_animation"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_app",
  "bevy_asset",
@@ -303,7 +303,7 @@ dependencies = [
 [[package]]
 name = "bevy_app"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_derive",
  "bevy_ecs",
@@ -317,7 +317,7 @@ dependencies = [
 [[package]]
 name = "bevy_asset"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "anyhow",
  "bevy_app",
@@ -344,7 +344,7 @@ dependencies = [
 [[package]]
 name = "bevy_audio"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "anyhow",
  "bevy_app",
@@ -362,7 +362,7 @@ dependencies = [
 [[package]]
 name = "bevy_core"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_app",
  "bevy_ecs",
@@ -376,7 +376,7 @@ dependencies = [
 [[package]]
 name = "bevy_core_pipeline"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_app",
  "bevy_asset",
@@ -395,7 +395,7 @@ dependencies = [
 [[package]]
 name = "bevy_derive"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_macro_utils",
  "quote",
@@ -405,7 +405,7 @@ dependencies = [
 [[package]]
 name = "bevy_diagnostic"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_app",
  "bevy_core",
@@ -419,7 +419,7 @@ dependencies = [
 [[package]]
 name = "bevy_ecs"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "async-channel",
  "bevy_ecs_macros",
@@ -438,7 +438,7 @@ dependencies = [
 [[package]]
 name = "bevy_ecs_macros"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_macro_utils",
  "proc-macro2",
@@ -449,7 +449,7 @@ dependencies = [
 [[package]]
 name = "bevy_encase_derive"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_macro_utils",
  "encase_derive_impl",
@@ -458,7 +458,7 @@ dependencies = [
 [[package]]
 name = "bevy_gilrs"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_app",
  "bevy_ecs",
@@ -470,7 +470,7 @@ dependencies = [
 [[package]]
 name = "bevy_gltf"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "anyhow",
  "base64",
@@ -498,7 +498,7 @@ dependencies = [
 [[package]]
 name = "bevy_hierarchy"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_app",
  "bevy_core",
@@ -512,7 +512,7 @@ dependencies = [
 [[package]]
 name = "bevy_input"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_app",
  "bevy_ecs",
@@ -525,7 +525,7 @@ dependencies = [
 [[package]]
 name = "bevy_internal"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_a11y",
  "bevy_animation",
@@ -562,7 +562,7 @@ dependencies = [
 [[package]]
 name = "bevy_log"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "android_log-sys",
  "bevy_app",
@@ -577,7 +577,7 @@ dependencies = [
 [[package]]
 name = "bevy_macro_utils"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "quote",
  "syn",
@@ -587,7 +587,7 @@ dependencies = [
 [[package]]
 name = "bevy_math"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "glam",
  "serde",
@@ -596,7 +596,7 @@ dependencies = [
 [[package]]
 name = "bevy_mikktspace"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "glam",
 ]
@@ -604,7 +604,7 @@ dependencies = [
 [[package]]
 name = "bevy_pbr"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_app",
  "bevy_asset",
@@ -625,12 +625,12 @@ dependencies = [
 [[package]]
 name = "bevy_ptr"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 
 [[package]]
 name = "bevy_reflect"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_math",
  "bevy_ptr",
@@ -649,7 +649,7 @@ dependencies = [
 [[package]]
 name = "bevy_reflect_derive"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_macro_utils",
  "bit-set",
@@ -662,7 +662,7 @@ dependencies = [
 [[package]]
 name = "bevy_render"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "anyhow",
  "async-channel",
@@ -707,7 +707,7 @@ dependencies = [
 [[package]]
 name = "bevy_render_macros"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_macro_utils",
  "proc-macro2",
@@ -718,7 +718,7 @@ dependencies = [
 [[package]]
 name = "bevy_scene"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "anyhow",
  "bevy_app",
@@ -739,7 +739,7 @@ dependencies = [
 [[package]]
 name = "bevy_sprite"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_app",
  "bevy_asset",
@@ -763,7 +763,7 @@ dependencies = [
 [[package]]
 name = "bevy_tasks"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "async-channel",
  "async-executor",
@@ -777,7 +777,7 @@ dependencies = [
 [[package]]
 name = "bevy_text"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "ab_glyph",
  "anyhow",
@@ -799,7 +799,7 @@ dependencies = [
 [[package]]
 name = "bevy_time"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_app",
  "bevy_ecs",
@@ -812,7 +812,7 @@ dependencies = [
 [[package]]
 name = "bevy_transform"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_app",
  "bevy_ecs",
@@ -824,7 +824,7 @@ dependencies = [
 [[package]]
 name = "bevy_ui"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_a11y",
  "bevy_app",
@@ -853,7 +853,7 @@ dependencies = [
 [[package]]
 name = "bevy_utils"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "ahash",
  "bevy_utils_proc_macros",
@@ -869,7 +869,7 @@ dependencies = [
 [[package]]
 name = "bevy_utils_proc_macros"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -879,7 +879,7 @@ dependencies = [
 [[package]]
 name = "bevy_window"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "bevy_app",
  "bevy_ecs",
@@ -893,7 +893,7 @@ dependencies = [
 [[package]]
 name = "bevy_winit"
 version = "0.11.0-dev"
-source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#b0969312dd10166d4d165c6b5cdd1a460897743c"
+source = "git+https://github.com/ickshonpe/bevy.git?branch=definite-measure-func#fd07cc78195e3941c4b1bbeb3f68a7bb62284962"
 dependencies = [
  "accesskit_winit",
  "approx",
@@ -2190,9 +2190,9 @@ checksum = "df3b9834c1e95694a05a828b59f55fa2afec6288359cda67146126b3f90a55d7"
 
 [[package]]
 name = "objc2"
-version = "0.3.0-beta.3"
+version = "0.3.0-beta.3.patch-leaks.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "fe31e5425d3d0b89a15982c024392815da40689aceb34bad364d58732bcfd649"
+checksum = "e7d9bb2ee6b71d02b1b3554ed600d267ee9a2796acc9fa43fb7748e13fe072dd"
 dependencies = [
  "block2",
  "objc-sys",
@@ -3279,9 +3279,9 @@ checksum = "9aec5da331524158c6d1a4ac0ab1541149c0b9505fde06423b02f5ef0106b9f0"
 
 [[package]]
 name = "winit"
-version = "0.28.2"
+version = "0.28.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "9d38e7dc904dda347b54dbec3b2d4bf534794f4fb4e6df0be91a264f4f2ed1cf"
+checksum = "4f504e8c117b9015f618774f8d58cd4781f5a479bc41079c064f974cbb253874"
 dependencies = [
  "android-activity",
  "bitflags",
